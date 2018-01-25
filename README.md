@@ -13,7 +13,9 @@ source 'https://github.com/CocoaPods/Specs.git'
 # Contributing
 
 Check out the guide on how to create your own podspec:
+
 https://guides.cocoapods.org/syntax/podspec.html
 
 Check the guide on how to add your podspec to our private repository:
+
 https://guides.cocoapods.org/making/private-cocoapods.html
